@@ -22,6 +22,7 @@ ul {
 img {
 	max-width: 100%;
 }
+
 /* Reset end */
 /* Default classes start */
 .d-flex {
@@ -63,7 +64,7 @@ img {
 .container {
 	max-width: 1170px;
 	margin: auto;
-	padding: 0 15px;
+	padding: 0 px;
 }
 
 .standart-section {
@@ -102,13 +103,13 @@ img {
 }
 
 .btn.btn-default:hover {
-	background-color: #fff;
+	background-color: #ffffff;
 }
 
 #header {
-	padding: 20px 0;
-	border-bottom: 2px solid #00e9ba;
-	background-color: #fff;
+	padding: 0.01% 0;
+	border-bottom: 2px solid #000000;
+	background-color: rgba(255, 20, 145, 0.641);
 	box-shadow: 0 3px 20px rgba(0, 0, 0, 0.2);
 }
 
@@ -126,7 +127,7 @@ img {
 }
 
 .header-nav a:hover {
-	color: #00e9ba;
+	color: #ffffff;
 }
 
 .course-item {
@@ -151,7 +152,7 @@ img {
 .course-item .course-price {
 	font-size: 30px;
 	font-weight: 700;
-	color: #00e9ba;
+	color:  rgba(255, 20, 145, 0.641);;
 }
 
 .course-item .course-date {
